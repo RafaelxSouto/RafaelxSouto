@@ -39,6 +39,6 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 
 ## Estatísticas do GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelxSouto&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelxSouto&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
