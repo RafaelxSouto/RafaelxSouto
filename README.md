@@ -22,6 +22,15 @@
   </p>
 </div>
 
+---
+<div align="center">
+  <h3>Onde me Encontrar</h3>
+  <p>
+    <a href="https://linkedin.com/in/rafaelsouto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin de rafaelsouto" height="30" width="40" /></a>
+    <a href="mailto:rafaelsouto@proton.me"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email de rafaelsouto" height="30" width="40" /></a>
+    <a href="https://rafaelsouto.tech" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/3981297/49419133-39286300-f748-11e8-8051-922223c24254.png" alt="website de rafaelsouto" height="30" width="40" /></a>
+  </p>
+</div>
 
 
 <figure><embed src="https://wakatime.com/share/@f10802a1-66fc-42ab-b92f-e4b075f67dd5/ce032f00-306c-4cf7-8e47-40fd7a244d7b.svg"></embed></figure>
@@ -31,15 +40,5 @@
   <p>
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelxSouto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelxSouto&layout=compact&langs_count=7&theme=tokyonight"/>
-  </p>
-</div>
-
----
-<div align="center">
-  <h3>Onde me Encontrar</h3>
-  <p>
-    <a href="https://linkedin.com/in/rafaelsouto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin de rafaelsouto" height="30" width="40" /></a>
-    <a href="mailto:rafaelsouto@proton.me"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email de rafaelsouto" height="30" width="40" /></a>
-    <a href="https://rafaelsouto.tech" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/3981297/49419133-39286300-f748-11e8-8051-922223c24254.png" alt="website de rafaelsouto" height="30" width="40" /></a>
   </p>
 </div>
