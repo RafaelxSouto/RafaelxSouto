@@ -22,6 +22,9 @@
   </p>
 </div>
 
+
+
+<figure><embed src="https://wakatime.com/share/@f10802a1-66fc-42ab-b92f-e4b075f67dd5/ce032f00-306c-4cf7-8e47-40fd7a244d7b.svg"></embed></figure>
 ---
 <div align="center">
   <h3>Minhas Estatísticas no GitHub</h3>
