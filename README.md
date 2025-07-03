@@ -16,7 +16,7 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
     </a>
   </p>
@@ -38,7 +38,7 @@
 <div align="center">
   <h3>Minhas Estatísticas no GitHub</h3>
   <p>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelxSouto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelxSouto&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="170em" src="https://github-readme-stats-taupe-mu-92.vercel.app/api?username=RafaelxSouto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-taupe-mu-92.vercel.app/api/top-langs/?username=RafaelxSouto&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
   </p>
 </div>
