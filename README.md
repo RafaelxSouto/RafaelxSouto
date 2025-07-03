@@ -16,7 +16,7 @@
 <h3 align="center">🚀 Minhas Ferramentas e Tecnologias</h3>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,docker,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,mysql,docker,postman,figma" />
 </p>
 
 ---
