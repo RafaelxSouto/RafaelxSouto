@@ -39,6 +39,6 @@
   <h3>Minhas Estatísticas no GitHub</h3>
   <p>
     <img height="170em" src="https://github-readme-stats-taupe-mu-92.vercel.app/api?username=RafaelxSouto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-taupe-mu-92.vercel.app/api/top-langs/?username=RafaelxSouto&layout=compact&langs_count=7&theme=tokyonight&count_private=true&timestamp=1"/>
+    <img height="170em" src="https://github-readme-stats-taupe-mu-92.vercel.app/api/top-langs/?username=RafaelxSouto&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
   </p>
 </div>
