@@ -1,44 +1,62 @@
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=60000&color=A49FEE&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+Souto+" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <em>Desenvolvedor Full-Stack JavaScript criando soluções completas, do design à nuvem.</em>
+</p>
+<br>
+<p align="center">
+  <b>💻 Front-end:</b> Interfaces dinâmicas com React a partir de protótipos no Figma.<br>
+  <b>⚙️ Back-end:</b> APIs robustas e eficientes com Node.js & Express.<br>
+</p>
+
+---
+
+<h3 align="center">🚀 Minhas Ferramentas e Tecnologias</h3>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,docker,postman,figma" />
+</p>
+
+---
+
+<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
+<br>
 <div align="center">
-  <h1 align="center">Bem-vindo(a) ao meu perfil! 👋</h1>
-  <p>
-    <em>
-      Full-Stack Dev in training at SENAI. My main focus is Java/Spring, and I also build with React/Angular. I adopt Docker for a clean, consistent, and organized workflow.
-    </em>
-  </p>
+  <img height="180em" src="https://github-readme-stats-taupe-mu-92.vercel.app/api?username=RafaelxSouto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://wakatime.com/share/@f10802a1-66fc-42ab-b92f-e4b075f67dd5/430354c1-c8ce-49fd-8044-7ea079bf7d2f.svg"/>
 </div>
 
 ---
-<div align="center">
-  <h3>Tecnologias e Ferramentas</h3>
-  <p>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/></a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-    </a>
-  </p>
-</div>
+
+<h3 align="center">💻 Projetos em Destaque</h3>
+<br>
+<p align="center">
+  <em>Abaixo estão alguns projetos que construí para solidificar meus fundamentos em lógica de programação e orientação a objetos. Atualmente, aplico esses mesmos conceitos no ecossistema JavaScript.</em>
+</p>
+<br>
+
+<!-- PROJETO 1 -->
+<p align="center">
+  <a href="https://github.com/RafaelxSouto/estacionamento-rsm">
+    <img src="https://github-readme-stats-taupe-mu-92.vercel.app/api/pin/?username=RafaelxSouto&repo=estacionamento-rsm&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
+<!-- PROJETO 2 -->
+<p align="center">
+  <a href="https://github.com/RafaelxSouto/lista-contato-rsm">
+    <img src="https://github-readme-stats-taupe-mu-92.vercel.app/api/pin/?username=RafaelxSouto&repo=lista-contato-rsm&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
 
 ---
-<div align="center">
-  <h3>Onde me Encontrar</h3>
-  <p>
-    <a href="https://linkedin.com/in/rafaelsouto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin de rafaelsouto" height="30" width="40" /></a>
-    <a href="mailto:rafaelsouto@proton.me"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email de rafaelsouto" height="30" width="40" /></a>
-    <a href="https://rafaelsouto.tech" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/3981297/49419133-39286300-f748-11e8-8051-922223c24254.png" alt="website de rafaelsouto" height="30" width="40" /></a>
-  </p>
-</div>
 
-
-<figure><embed src="https://wakatime.com/share/@f10802a1-66fc-42ab-b92f-e4b075f67dd5/ce032f00-306c-4cf7-8e47-40fd7a244d7b.svg"></embed></figure>
----
-<div align="center">
-  <h3>Minhas Estatísticas no GitHub</h3>
-  <p>
-    <img height="170em" src="https://github-readme-stats-taupe-mu-92.vercel.app/api?username=RafaelxSouto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-taupe-mu-92.vercel.app/api/top-langs/?username=RafaelxSouto&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
-  </p>
-</div>
+<h3 align="center">📞 Onde me encontrar</h3>
+<br>
+<p align="center">
+  <a href="https://linkedin.com/in/rafaelsouto" target="\_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rafaelsouto@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="https://rafaelsouto.tech" target="\_blank"><img src="https://img.shields.io/badge/Meu%20Portfólio-3B3B3B?style=for-the-badge&logo=firefox%20browser&logoColor=white" /></a>
+</p>
