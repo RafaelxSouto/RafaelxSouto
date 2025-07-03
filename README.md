@@ -60,3 +60,4 @@
   <a href="mailto:rafaelsouto@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href="https://rafaelsouto.tech" target="\_blank"><img src="https://img.shields.io/badge/Meu%20Portfólio-3B3B3B?style=for-the-badge&logo=firefox%20browser&logoColor=white" /></a>
 </p>
+
