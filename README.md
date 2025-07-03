@@ -1,3 +1,7 @@
+<p align="right">
+  <b>Português (BR)</b> | <a href="README_en.md">English (US)</a>
+</p>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=60000&color=A49FEE&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+Souto+" alt="Typing SVG" /></a>
 </p>
@@ -16,7 +20,7 @@
 <h3 align="center">🚀 Minhas Ferramentas e Tecnologias</h3>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,mysql,docker,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,docker,postman,figma" />
 </p>
 
 ---
@@ -56,8 +60,7 @@
 <h3 align="center">📞 Onde me encontrar</h3>
 <br>
 <p align="center">
-  <a href="https://linkedin.com/in/rafaelsouto" target="\_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rafaelxsouto" target="\_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rafaelsouto@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href="https://rafaelsouto.tech" target="\_blank"><img src="https://img.shields.io/badge/Meu%20Portfólio-3B3B3B?style=for-the-badge&logo=firefox%20browser&logoColor=white" /></a>
 </p>
-
