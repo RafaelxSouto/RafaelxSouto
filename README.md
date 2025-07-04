@@ -21,11 +21,11 @@
 
 ---
 
-<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
+<h3 align="center">📊 Minhas Estatísticas</h3>
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats-taupe-mu-92.vercel.app/api?username=RafaelxSouto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://wakatime.com/share/@f10802a1-66fc-42ab-b92f-e4b075f67dd5/430354c1-c8ce-49fd-8044-7ea079bf7d2f.svg"/>
+  <img height="180em" src="https://github-readme-stats-taupe-mu-92.vercel.app/api/top-langs/?username=RafaelxSouto&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
 </div>
 
 ---
