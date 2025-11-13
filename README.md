@@ -27,28 +27,16 @@
 <tr align="top">
 <td width="50%">
 
-  <strong>🚗 <a href="https://github.com/RafaelxSouto/estacionamento-rsm">Estacionamento RSM</a></strong>
+  <strong>🚗 <a href="https://github.com/RafaelxSouto/gestao_vagas">gestao-vagas</a></strong>
   <br><br>
-  <p>Sistema de controle de estacionamento com backend robusto em Java e Spring Boot, focado em APIs REST e gerenciamento de banco de dados.</p>
+  <p>Projeto para consolidar conhecimento em Spring Boot, PostgreSQL e Docker</p>
   
   <p><a href="https://SEU-LINK-DO-DEPLOY-AQUI.com" target="_blank">🔗 Ver Projeto Online</a></p> <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   
-</td>
-
-<td width="50%">
-
-  <strong>📱 <a href="https://github.com/RafaelxSouto/lista-contato-rsm">Lista Contato RSM</a></strong>
-  <br><br>
-  <p>Aplicação de gerenciamento de contatos com frontend em Angular, consumindo uma API REST para operações de CRUD (Create, Read, Update, Delete).</p>
-
-  <p><a href="https://SEU-LINK-DO-DEPLOY-AQUI.com" target="_blank">🔗 Ver Projeto Online</a></p> <br>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_REST-000000?style=flat&logo=databricks&logoColor=white" />
-
 </td>
 </tr>
 
