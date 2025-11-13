@@ -60,7 +60,7 @@
 <br>
 <p align="center">
   <a href="https://linkedin.com/in/rafaelxsouto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rafaelsouto@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rafaelxsouto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://rafaelsouto.tech" target="_blank"><img src="https://img.shields.io/badge/Meu%20Portfólio-3B3B3B?style=flat&logo=atom&logoColor=white" /></a>
 </p>
 
