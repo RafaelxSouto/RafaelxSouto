@@ -27,7 +27,7 @@
 <tr align="top">
 <td width="50%">
 
-  <strong>🚗 <a href="https://github.com/RafaelxSouto/gestao_vagas">gestao-vagas</a></strong>
+  <strong>🚗 <a href="https://github.com/RafaelxSouto/gestao_vagas_api">Gestão de Vagas</a></strong>
   <br><br>
   <p>Projeto para consolidar conhecimento em Spring Boot, PostgreSQL e Docker</p>
   
