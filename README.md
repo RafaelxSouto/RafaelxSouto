@@ -38,6 +38,18 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   
 </td>
+<td width="50%">
+
+  <strong>🚗 <a href="https://github.com/RafaelxSouto/adivinhacao">Adivinhação</a></strong>
+  <br><br>
+  <p>Adivinhacao é uma pequena aplicação front-end em React escrita em TypeScript, empacotada com Vite.</p>
+  
+  <p><a href="https://adivinhacao-steel.vercel.app" target="_blank">🔗 Ver Projeto Online</a></p> <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+
+</td>
 </tr>
 
 </table>
